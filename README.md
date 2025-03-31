@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **andrelaudares/andrelaudares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Claro! Um bom README para o seu perfil do GitHub é uma ótima maneira de destacar suas habilidades, projetos e personalidade. Vou criar um modelo personalizável para você. Basta substituir as informações entre colchetes `[]` e adaptar conforme seu estilo.
 
@@ -74,12 +73,7 @@ Claro! Um bom README para o seu perfil do GitHub é uma ótima maneira de destac
 
 ---
 
-### Exemplo de Personalização com Emojis e Cores  
-```markdown
-### 🎨 Design  
-- Figma, Adobe XD, Canva  
-- Tema favorito: Dracula 🦇  
-```
+
 
 ---
 
