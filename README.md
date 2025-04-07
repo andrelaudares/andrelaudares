@@ -35,11 +35,6 @@
    - Techs: React, Node.js, Python.
 
 
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelaudares&show_icons=true&theme=radical)  
-*(Personalize em [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
 
 ---
 
