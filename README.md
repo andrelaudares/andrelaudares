@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Como me contactar  
-- Email: [seu-email@gmail.com](mailto:andrelaudres@hotmail.com)  
-- LinkedIn: [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andré-laudares/))  
+- Email: [mailto:andrelaudres@hotmail.com]
+- LinkedIn: [https://www.linkedin.com/in/andré-laudares/]
 
 
 ---
