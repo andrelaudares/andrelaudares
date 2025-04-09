@@ -1,6 +1,6 @@
 
 
-# 🌟 André Laudares
+#  André Laudares
 > 
 
 ---
