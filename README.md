@@ -6,11 +6,16 @@
 ---
 
 ## 🤝 Sobre Mim  
-- 👨💻 André Laudares - Desenvolvedor de Software | Head de Desenvolvimento | Engenheiro de Software | Desenvolvedor com LLM's 
+- 👨💻 André Laudares - Python AI | Engenheiro de Software | Developer Junior AI
 - 📍 Localização: Campinas-SP, Brasil.  
-- 📚 Atualmente estudando/trabalhando: Altivus AI  
-- 🤖 Interesses: Desenvolvimento em Modelos de IA e Sofware AAIS
+- 📚 Atualmente estudando: Puc Campinas  
+- 🤖 Interesses: Desenvolvimento em Modelos de IA, Sofware AAIS e MCP
 
+---
+
+## 🎉 Reconhecimentos  
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+   
 ---
 
 ## 🛠 Habilidades  
@@ -28,28 +33,13 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
-1. **VeTech**  
-   - Descrição breve.  
-   - Link: [GitHub Repo]([https://github.com/seu-usuario/nome-do-repo](https://github.com/andrelaudares/VeTech))  
-   - Techs: React, Node.js, Python.
-
-
-
----
-
 ## 📫 Como me contactar  
 - Email: [mailto:andrelaudres@hotmail.com]
 - LinkedIn: [https://www.linkedin.com/in/andré-laudares/]
-
 
 ---
 
 ## 🎉 Reconhecimentos  
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
    
-
 ---
-
-
--->
