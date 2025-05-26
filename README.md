@@ -1,7 +1,14 @@
 
 
-#  André Laudares
+<h1 align="center">
+   André Laudares! 👨‍💻
+</h1>
+
 > 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Python+AI;Engenharia+de+Dados;Postgress+%7C+SQL+%7C+Banco+Vetorial;TypeScript+%7C+JavaScript+%7C+REACT&center=true&width=500&height=45&font=Fira+Code&pause=00" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -20,16 +27,10 @@
 
 ## 🛠 Habilidades  
 **Linguagens & Ferramentas:**  
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)]  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)]  
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]  
 
-
-**Stack:**  
-- Front-end: HTML5, CSS3, React.js  
-- Back-end: Node.js, FastAPI 
-- Banco de Dados:  Postgress, Supabase  
-- DevOps: Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,supabase,git,docker&theme=dark" />
+</p>
 
 ---
 
