@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Como me contactar  
-- Email: [mailto:andrelaudres@hotmail.com]
-- LinkedIn: [https://www.linkedin.com/in/andré-laudares/]
+- Email: mailto:andrelaudres@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/andré-laudares/
 
 ---
 
