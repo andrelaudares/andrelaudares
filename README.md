@@ -2,13 +2,20 @@
 
 <h1 align="center">
    André Laudares! 👨‍💻
-Vejam meu portfólio: https://portfolio-interativo.vercel.app
+
 </h1>
 
 > 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Python+AI;Engenharia+de+Dados;Postgress+%7C+SQL+%7C+Banco+Vetorial;TypeScript+%7C+JavaScript+%7C+REACT&center=true&width=500&height=45&font=Fira+Code&pause=00" alt="Typing SVG" />
+</p>
+
+
+
+
+<p align="center">
+  Vejam meu portfólio: https://portfolio-interativo.vercel.app
 </p>
 
 ---
