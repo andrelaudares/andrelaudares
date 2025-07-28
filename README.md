@@ -20,7 +20,7 @@
 ---
 
 ## 🤝 Sobre Mim  
-- 👨💻 André Laudares - Python AI | Engenheiro de Software | Developer Junior AI
+- 💻 André Laudares - Python AI | Engenheiro de Software | Developer Junior AI
 - 📍 Localização: Campinas-SP, Brasil.  
 - 📚 Atualmente estudando: Puc Campinas  
 - 🤖 Interesses: Desenvolvimento em Modelos de IA, Sofware AAIS e MCP
